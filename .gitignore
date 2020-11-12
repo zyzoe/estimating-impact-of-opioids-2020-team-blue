@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+git # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -101,6 +101,7 @@ venv.bak/
 /site
 
 *.pdf
+.DS_Store
 
 # mypy
 .mypy_cache/
